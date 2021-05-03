@@ -1,6 +1,6 @@
 # Intro_app
 
-A new Flutter project.
+Profile Application demo
 
 ## Getting Started
 
